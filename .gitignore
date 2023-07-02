@@ -29,3 +29,6 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+yaml2ics.egg-info/
+build/
